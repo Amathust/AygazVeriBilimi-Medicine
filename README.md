@@ -1,7 +1,8 @@
 # AygazVeriBilimi-Medicine
 
+Kaggle link: https://www.kaggle.com/code/furkancokunsu/aygazverianalizi-medical
 
-README.md: Aygaz Verisi Analizi - Tıbbi İlişkilendirme Projesi
+README.md: Aygaz Veri Analizi - Tıbbi Öğrenci Analizi
 Bu proje, Öğrenci grubuna ait bir veri setini analiz ederek demografik ve tıbbi değişkenler arasındaki ilişkileri keşfetmeyi amaçlamaktadır. Proje, veri işleme, analiz, görselleştirme ve çıkarım aşamalarını kapsamaktadır. Veri seti, kullanıcıların çeşitli özelliklerini içermekte olup, bu özelliklerin analiz edilmesi sonucunda anlamlı örüntüler elde edilmiştir.
 
 📁 Proje İçeriği
